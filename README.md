@@ -13,4 +13,5 @@ by Antonio de la Piedra and Marloes Venema (Radboud University Nijmegen).
 ## References
 
 - https://www.blackhat.com/eu-21/briefings/schedule/index.html#practical-attacks-against-attribute-based-encryption-25058
+- https://pypi.org/project/abeattacks/
 - https://eprint.iacr.org/2020/460
