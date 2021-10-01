@@ -10,3 +10,7 @@ by Antonio de la Piedra and Marloes Venema (Radboud University Nijmegen).
 - Jupyter notebooks demonstrating the attacks against DAC-MACS, YJ14 and YCT14
 - A Docker image with everything ready
 
+## References
+
+- https://www.blackhat.com/eu-21/briefings/schedule/index.html#practical-attacks-against-attribute-based-encryption-25058
+- https://eprint.iacr.org/2020/460
