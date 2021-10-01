@@ -7,6 +7,6 @@ by Antonio de la Piedra and Marloes Venema (Radboud University Nijmegen).
 ## Content
 
 - Repository of the pypi package
-- Jupyter notebooks demonstrating the attacks against DAC-MACS, YJ14 and YCT14\
+- Jupyter notebooks demonstrating the attacks against DAC-MACS, YJ14 and YCT14
 - A Docker image with everything ready
 
