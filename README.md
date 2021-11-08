@@ -6,6 +6,7 @@ by Antonio de la Piedra and Marloes Venema (Radboud University Nijmegen).
 
 ## Content
 
+- The slide deck of our presentation
 - Repository of the pypi package
 - Jupyter notebooks demonstrating the attacks against DAC-MACS, YJ14 and YCT14
 - A Docker image with everything ready
